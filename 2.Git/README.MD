@@ -25,26 +25,16 @@ Our Git track is designed to help beginners and professionals.
 <b>Git Course Curriculum</b>
 
 <ol>
-What is and Why Git ?
-
-Setting up Git Environment
-
-How to Create and Initialize a Project in Git ?
-
-Git project files
-
-What is GitHub?
-
-How to push a repository to GitHub
-
-How to add files in Git
-
-How to commit files in Git
-
-Push the repository to GitHub
-
-How to Use Branches in Git
-
-How to Pull a Repository in Git
+<li>What is and Why Git ?</li>
+<li>Setting up Git Environment</li>
+<li>How to Create and Initialize a Project in Git ?</li>
+<li>Git project files</li>
+<li>What is GitHub?</li>
+<li>How to push a repository to GitHub</li>
+<li>How to add files in Git</li>
+<li>How to commit files in Git</li>
+<li>Push the repository to GitHub</li>
+<li>How to Use Branches in Git</li>
+<li>How to Pull a Repository in Git</li>
 
 </ol>
