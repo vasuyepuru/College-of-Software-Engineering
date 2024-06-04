@@ -16,22 +16,19 @@
 
 <b>Java Course Curriculum</b>
 <ol>
-<li>What is and Why Java ?</li>
-
-<li>Setting up Java Development Environment </li>
-
-<li>Java Programming Basics</li>
-
-<li>Object-Oriented Programming (OOP) Concepts in Java</li>
-
-<li>Java Collections Framework</li>
-
-<li>Java Exception Handling</li>
-
-<li>File Handling in Java</li>
-
-<li>Multithreading in Java</li>
-
-<li>Java Database Connectivity (JDBC) </li>
+<li> MySQL Database Architecture </li>
+<li> Basic Syntax </li>
+<li> Logging In and Logging Out </li>
+<li> Database Comments </li>
+<li> Database Design </li>
+<li> Table Creaton </li>
+<li> Data Types </li>
+<li> Primary Keys </li>
+<li> Foreign Keys </li>
+<li> Inserting and Deleting Data </li>
+<li> Displaying Table Values </li>
+<li> Altering Tables </li>
+<li> Renaming Tables </li>
+<li> Joins </li>
 <ol>
 
