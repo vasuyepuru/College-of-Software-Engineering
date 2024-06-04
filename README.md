@@ -1,14 +1,12 @@
 To Became a Java Engineer ,one should complete below tracks 
 
-Track    Description    Links
------ |  ----------- |  -------
-Java  | |[Java](https://github.com/vasuyepuru/Java-Software-Engineer/tree/main/1.Java)
 
-Git | | [Git](https://github.com/vasuyepuru/Java-Software-Engineer/tree/main/2.Git)
-
-MySQL | | [MySQL](https://github.com/vasuyepuru/Java-Software-Engineer/tree/main/3.MySQL)
-
-Project | | [Capstone Project]()
+| Track      | Description |  Links   |
+| ----------- | ----------- | -------- |
+| Java      | Title       |       |[Java](https://github.com/vasuyepuru/Java-Software-Engineer/tree/main/1.Java)      |
+| Git   | Text        |        [Git](https://github.com/vasuyepuru/Java-Software-Engineer/tree/main/2.Git)         |
+| MySQL  | Text        |          [MySQL](https://github.com/vasuyepuru/Java-Software-Engineer/tree/main/3.MySQL)       |
+| Capstone Project | Text        |   [Capstone Project]()              |
 
 Below is a <b>ROADMAP for Java Software Engineer</b>
 
