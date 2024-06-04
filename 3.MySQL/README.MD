@@ -1,10 +1,7 @@
 <b>About MySQL Track</b>
 
->Our core Java programming track is designed for students and working professionals who want to became a Java Software Engineer.
->
->Java is an object-oriented, class-based, concurrent, secured and general-purpose computer-programming language. 
->
->It is a widely used robust technology.
+> MySQL is a database, used for storing information in a way that makes it easy to get at particular pieces of information when you want them. It can be used for lots of things, but in this case, it's to store data to be used for a website. 
+
 
 <b>Prerequisite</b>
 
