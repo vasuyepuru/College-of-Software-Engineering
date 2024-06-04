@@ -1,10 +1,12 @@
 <b>About Git Track</b>
 
-Our core Java programming track is designed for students and working professionals who want to became a Java Software Engineer.
+Git and GitHub are two technologies that every developer should learn, irrespective of their field.
 
-Java is an object-oriented, class-based, concurrent, secured and general-purpose computer-programming language.
+If you're a beginner developer, you might think that these two terms mean the same thing – but they're different.
 
-It is a widely used robust technology.
+This track will help you understand what Git and version control are, the basic Git commands you need to know, how you can use its features to boost your work efficiency, and how to extend these features using GitHub.
+
+This is a beginner friendly, as the examples will be very easy to understand. It will also be a generalized tutorial so anyone can follow along no matter what your favorite programming language is.
 
 <b>Prerequisite</b>
 
