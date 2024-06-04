@@ -17,11 +17,19 @@ Our core Java programming track is designed for students and working professiona
 <b>Java Course Curriculum</b>
 
 1.What is and Why Java ?
+
 2.Setting up Java Development Environment 
+
 3.Java Programming Basics
+
 4.Object-Oriented Programming (OOP) Concepts in Java
+
 5.Java Collections Framework
+
 6.Java Exception Handling
+
 7.File Handling in Java
+
 8.Multithreading in Java
+
 9.Java Database Connectivity (JDBC)
