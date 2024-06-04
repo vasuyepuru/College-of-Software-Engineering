@@ -2,9 +2,9 @@
 
  >Git and GitHub are two technologies that every developer should learn, irrespective of their field.
  
-If you're a beginner developer, you might think that these two terms mean the same thing – but they're different.
+>If you're a beginner developer, you might think that these two terms mean the same thing – but they're different.
  
-This track will help you understand what Git and version control are, the basic Git commands you need to know, how you can use its features to boost your work efficiency, and how to extend these features using GitHub.
+>This track will help you understand what Git and version control are, the basic Git commands you need to know, how you can use its features to boost your work efficiency, and how to extend these features using GitHub.
  
  > This is a beginner friendly, as the examples will be very easy to understand. It will also be a generalized tutorial so anyone can follow along no matter what your favorite programming language is.
 
