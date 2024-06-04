@@ -15,21 +15,22 @@
 - Our Java programming track is designed to help beginners and professionals.
 
 <b>Java Course Curriculum</b>
+<ol>
+<li>What is and Why Java ?</li>
 
-1.What is and Why Java ?
+<li>Setting up Java Development Environment </li>
 
-2.Setting up Java Development Environment 
+<li>Java Programming Basics</li>
 
-3.Java Programming Basics
+<li>Object-Oriented Programming (OOP) Concepts in Java</li>
 
-4.Object-Oriented Programming (OOP) Concepts in Java
+<li>Java Collections Framework</li>
 
-5.Java Collections Framework
+<li>Java Exception Handling</li>
 
-6.Java Exception Handling
+<li>File Handling in Java</li>
 
-7.File Handling in Java
+<li>Multithreading in Java</li>
 
-8.Multithreading in Java
-
-9.Java Database Connectivity (JDBC)
+<li>Java Database Connectivity (JDBC) </li>
+<ol>
