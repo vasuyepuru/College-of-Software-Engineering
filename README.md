@@ -3,7 +3,7 @@ To Became a Java Engineer ,one should complete below tracks
 
 | Track      | Description |  Links   |
 | ----------- | ----------- | -------- |
-| Java      | Title       |       |[Java](https://github.com/vasuyepuru/Java-Software-Engineer/tree/main/1.Java)      |
+| Java      | Java is a multi-platform, object-oriented, and network-centric language that can be used as a platform in itself. It is a fast, secure, reliable programming language for coding everything from mobile apps and enterprise software to big data applications and server-side technologies.      |       |[Java](https://github.com/vasuyepuru/Java-Software-Engineer/tree/main/1.Java)      |
 | Git   | Text        |        [Git](https://github.com/vasuyepuru/Java-Software-Engineer/tree/main/2.Git)         |
 | MySQL  | Text        |          [MySQL](https://github.com/vasuyepuru/Java-Software-Engineer/tree/main/3.MySQL)       |
 | Capstone Project | Text        |   [Capstone Project]()              |
