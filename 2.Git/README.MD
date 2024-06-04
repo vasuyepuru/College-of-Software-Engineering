@@ -10,11 +10,17 @@ This is a beginner friendly, as the examples will be very easy to understand. It
 
 <b>Prerequisite</b>
 
-To learn Java, you must have the basic knowledge of C/C++ programming language.
+In order to complete this tutorial, you'll need the following:
+
+- A command line interface.
+
+- A text editor of your choice (I will be using VS Code).
+
+- A GitHub account.
 
 <b>Targetted Audience</b>
 
-Our Java programming track is designed to help beginners and professionals.
+Our Git track is designed to help beginners and professionals.
 
 <b>Git Course Curriculum</b>
 
