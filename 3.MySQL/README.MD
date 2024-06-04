@@ -1,7 +1,10 @@
 <b>About MySQL Track</b>
 
-> MySQL is a database, used for storing information in a way that makes it easy to get at particular pieces of information when you want them. It can be used for lots of things, but in this case, it's to store data to be used for a website. 
-> MySQL is the world's most popular open source database. According to DB-Engines, MySQL ranks as the second-most-popular database, behind Oracle Database. MySQL powers many of the most accessed applications, including Facebook, Twitter, Netflix, Uber, Airbnb, Shopify, and Booking.com.
+> MySQL is a database, used for storing information in a way that makes it easy to get at particular pieces of information when you want them. It can be used for lots of things, but in this case, it's to store data to be used for a website.
+>
+> MySQL is the world's most popular open source database. According to DB-Engines, MySQL ranks as the second-most-popular database, behind Oracle Database. 
+>
+>MySQL powers many of the most accessed applications, including Facebook, Twitter, Netflix, Uber, Airbnb, Shopify, and Booking.com.
 
 
 <b>Prerequisite</b>
