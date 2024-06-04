@@ -1,6 +1,7 @@
 To became a Java Engineer ,one should complete below tracks 
-
-1.Java
-2.Git
-3.MySQL
-4.Capstone Project
+<ol>
+<li>Java</li>
+<li>Git</li>
+<li>MySQL</li>
+<li>Capstone Project</li>
+</ol
